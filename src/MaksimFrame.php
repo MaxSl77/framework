@@ -6,9 +6,9 @@ use Maxsl77\Framework\Test\Session;
 
 class MaksimFrame
 {
-    function hello()
+    public function __construct()
     {
-        echo "Hello!<br>";
+        Session::set('key', '123');
+        echo 'GoodBye';
     }
 }
-hello();
