@@ -11,3 +11,4 @@ class MaksimFrame
         echo "Hello!<br>";
     }
 }
+hello();
