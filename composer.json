@@ -1,5 +1,6 @@
 {
     "name": "maxsl77/framework",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Maxsl77\\Framework\\": "src/"
