@@ -1,0 +1,15 @@
+{
+    "name": "maxsl77/framework",
+    "autoload": {
+        "psr-4": {
+            "Maxsl77\\Framework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MaxSl77",
+            "email": "maximslabko77@icloud.com"
+        }
+    ],
+    "require": {}
+}
