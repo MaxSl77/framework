@@ -1,6 +1,7 @@
 {
     "name": "maxsl77/framework",
     "license": "MIT",
+    "type": "library",
     "autoload": {
         "psr-4": {
             "Maxsl77\\Framework\\": "src/"
@@ -12,5 +13,5 @@
             "email": "maximslabko77@icloud.com"
         }
     ],
-    "require": {}
+    "minimum-stability": "dev"
 }
